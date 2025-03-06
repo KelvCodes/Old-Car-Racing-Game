@@ -11,7 +11,6 @@ A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaSc
 - **🎯 Score System** – Earn points for every second you survive.
 - **📱 Responsive Design** – Play on any device, anytime. 
 - **🎨 Sleek UI** – Clean and intuitive interface for a great gaming experience.  
-
 - **⚡ Instant Load** – Fast and optimized for a seamless experience.
 
 

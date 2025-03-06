@@ -13,7 +13,7 @@ A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaSc
 - **🎨 Sleek UI** – Clean and intuitive interface for a great gaming experience.  
 
 - **⚡ Instant Load** – Fast and optimized for a seamless experience.
-- **🎨 Sleek UI & Responsive Design** – Works across all devices.
+
 
 ---      
 ## 🎬 Live Demo 

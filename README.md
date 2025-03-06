@@ -30,7 +30,7 @@ A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaSc
 ---
 
 ## 🚀 How to Use 
-1.   
+1. **Open** index.html in your browser.  
 2. **Search for a Movie** – Enter a movie title or artist in the search bar. 🔍
 3. **Play Music** – Click the play button to enjoy seamless streaming! ▶️🎶
 4. **Control Playback** – Use pause, next, and volume controls for a better experience. 🎛️

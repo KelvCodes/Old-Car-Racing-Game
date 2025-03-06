@@ -75,7 +75,7 @@ Your contributions are always welcome! 🌟:
 
 ## 📜 License  
 
-This project is open-source and available under the **MIT License**. Feel free to use, modify, and most imp share it!  
+This project is open-source and available under the **MIT License**. Feel free to use, modify, and most impo share it!  
 
 ---
 

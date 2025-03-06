@@ -52,7 +52,7 @@ A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaSc
 
 ## 🤝 Contributing  
 
-Want to make this movie explor even better? We’d love your help! 💡  
+Want to make this movie explr even better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  

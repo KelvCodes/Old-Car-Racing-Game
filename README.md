@@ -10,7 +10,7 @@ A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaSc
 - **🚧 Avoid Obstacles** – Dodge cars and barriers to stay in the race.  
 - **🎯 Score System** – Earn points for every second you survive.
 - **📱 Responsive Design** – Play on any device, anytime. 
-- **📱 Mobile Friendly** – Works smoothly on all devices.
+- 
 - **⚡ Instant Load** – Fast and optimized for a seamless experience.
 - **🎨 Sleek UI & Responsive Design** – Works across all devices.
 

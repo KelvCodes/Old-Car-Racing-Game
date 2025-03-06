@@ -7,7 +7,7 @@ A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaSc
 ---
 
 ## 🌟 Features  
-- **🔥 Discover Popular Movies** – Fetches the latest trending films from TMDb.
+-
 - **🔍 Search Functionality** – Find your favorite movies instantly.  
 - **🎭 Dynamic Ratings** – Color-coded ratings for easy movie selection.
 - **📱 Mobile Friendly** – Works smoothly on all devices.

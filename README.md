@@ -32,7 +32,7 @@ A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaSc
 ## 🚀 How to Use 
 1. **Open** index.html in your browser.  
 2. **Use arrow keys** (← →) to move your car and avoid obstacles.
-3. **Survive as long as you can** – Click the play button to enjoy seamless streaming! ▶️🎶
+3. **Survive as long as you can**
 4. **Control Playback** – Use pause, next, and volume controls for a better experience. 🎛️
 5. **Enjoy** – Listen, vibe, and share your favorite tunes! 🎧🎵 
    

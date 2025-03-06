@@ -1,5 +1,6 @@
 # 🏎️ JavaScript Car Racing Game � 
 
+A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaScript**. Race against time, avoid obstacles, and score high in this fun and engaging game! Perfect for beginners to explore game development. 🚀
 
 
 ---

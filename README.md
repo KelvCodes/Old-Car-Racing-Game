@@ -8,7 +8,7 @@ A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaSc
 
 ## 🌟 Features  
 - **🚧 Avoid Obstacles** – Dodge cars and barriers to stay in the race.  
-- 
+- **🎯 Score System** – Earn points for every second you survive.
 - **🎭 Dynamic Ratings** – Color-coded ratings for easy movie selection.
 - **📱 Mobile Friendly** – Works smoothly on all devices.
 - **⚡ Instant Load** – Fast and optimized for a seamless experience.

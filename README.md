@@ -42,7 +42,7 @@ A **fast-paced, interactive car racing game** built with **HTML, CSS, and JavaSc
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/movie-app.git
+   git clone https://github.com/yourusername/old-car-racing-game.git
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
